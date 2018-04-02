@@ -1,0 +1,21 @@
+[
+	{
+		"type": "file",
+		"path": "src/pages/Login/Facebook.vue"
+	},
+	{
+		"type": "code",
+		"path": "src/routes/index.js",
+		"before": "// ## end rotues tag ##"
+	},
+	{
+		"type": "file",
+		"path": "src/plugins/facebook-login-vue-js.js"
+	},
+	{
+		"type": "code",
+		"path": "src/main.js",
+		"before": "// ## end imports plugins tag ##"
+	}
+	
+]

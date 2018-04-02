@@ -1,0 +1,1 @@
+import './plugins/facebook-login-vue-js';

@@ -1,13 +1,3 @@
-/* ============
- * Routes File
- * ============
- *
- * The routes and redirects are defined in this file.
- */
-
-export default [
-
-  // Facebook Login
   {
     path: '/facebook',
     name: 'login.facebook',
@@ -18,5 +8,3 @@ export default [
       guest: true,
     },
   },
-
-];
